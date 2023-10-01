@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "Site randomly selecting a quote from an array of quotes and displaying values for existing properties.",
+            "technologies": ["JS", "CSS", "HTML"],
+            "live_link": "https://anish-chopra.github.io/random-quote-generator/",
+            "github_link": "https://github.com/anish-chopra/random-quote-generator",
+            "image_urls": [""]
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "In this project, I used JavaScript to display student information from an array of student objects. I used separate functions to both display the first nine students and to add pagination buttons to better navigate and present the information. Lastly, I added a dynamic search option to further enhance the usability of the web page.",
+            "technologies": ["JS", "CSS", "HTML"],
+            "live_link": "https://anish-chopra.github.io/data-pagination-and-filtering/",
+            "github_link": "https://github.com/anish-chopra/data-pagination-and-filtering",
+            "image_urls": [""]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "In this interactive form, elements change dynamically depending on user interaction. The form is written with an emphasis on user accessibility, making sure the user can navigate the form easily and visibly. The form also dynamically displays error messages when necessary in the required input fields.",
+            "technologies": ["JS", "CSS", "HTML"],
+            "live_link": "https://anish-chopra.github.io/interactive-form/",
+            "github_link": "https://github.com/anish-chopra/interactive-form",
+            "image_urls": [""]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game",
+            "description": "Browser-based, word guessing game using Object-Oriented Programming.",
+            "technologies": ["JS", "OOP", "CSS", "HTML"],
+            "live_link": "https://github.com/anish-chopra/oop-game",
+            "github_link": "https://github.com/anish-chopra/oop-game",
+            "image_urls": [""]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Request",
+            "description": "Fictional employee directory using fetch API requests, async/await, modals, and dynamic search.",
+            "technologies": ["JS", "Fetch API", "async/await", "modals"],
+            "live_link": "https://anish-chopra.github.io/public-api-requests/",
+            "github_link": "https://github.com/anish-chopra/public-api-requests",
+            "image_urls": [""]
+        }
+    ]
+}
